@@ -43,15 +43,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
----
-
 ## 🔗 Connect With Me
 
-* LinkedIn: (Add your link)
-* Portfolio: (Optional)
+* LinkedIn: [linkedin.com/in/alok-singh-](url)
 
 ---
