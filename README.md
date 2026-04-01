@@ -19,7 +19,7 @@
 ## 🧠 About Me
 
 * 🔭 Currently working on **Ticket Management Dashboard**
-* 🌱 Learning **Advanced React & Performance Optimization**
+* 🌱 Learning **Advanced React, Performance Optimization & AEM FE + BE**
 * 💬 Ask me about **React, AEM, Tailwind, JavaScript**
 * ⚡ I enjoy solving **real-world UI challenges**
 
